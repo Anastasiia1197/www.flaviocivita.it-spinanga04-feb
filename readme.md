@@ -1,8 +1,8 @@
-# beautyretreat.it
-ТЗ beautyretreat.it spinanga
+# www.flaviocivita.it
+ТЗ www.flaviocivita.it spinanga
 
 !!! 
-1) всі посилання в head у файлы index.html мають бути https://beautyretreat.it/ (сайт на якому буде контент). також змінити у sitemap та robots.txt на правильне посилання + дати сьогоднішні 
+1) всі посилання в head у файлы index.html мають бути https://www.flaviocivita.it/ (сайт на якому буде контент). також змінити у sitemap та robots.txt на правильне посилання + дати сьогоднішні 
 2) на сторінці /it-it/ контент такий самий, як в index.html АЛЕ: 
 (можете створити нову папку /it-it/ або перейменувати)
 
@@ -26,9 +26,9 @@
 
 
 ставимо хрефланги та канонікл у head 
-<link rel="alternate" hreflang="it-IT" href="https://beautyretreat.it/it-it/">
-<link rel="alternate" hreflang="x-default" href="https://beautyretreat.it/">
-<link rel="canonical" href="https://beautyretreat.it/it-it/">
+<link rel="alternate" hreflang="it-IT" href="https://www.flaviocivita.it/it-it/">
+<link rel="alternate" hreflang="x-default" href="https://www.flaviocivita.it/">
+<link rel="canonical" href="https://www.flaviocivita.it/it-it/">
 
 
 !!! **КЛЮЧІ такод потрібно додавати у промт, та вказувати: щоб їх використовувал ШІ у написанні контенту**
